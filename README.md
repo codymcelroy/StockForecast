@@ -1,6 +1,11 @@
 # StockForecast
 
-An old project from 2020 which is forcasting by running a Monte Carlo simulation
+An old project from 2020 which is forecasting by running a Monte Carlo simulation
+
+## Files
+
+- stockForecast.ipynb = interactive work book
+- stock_forecast.py = Todo: Tkinker GUI
 
 ## Environment
 
@@ -23,4 +28,5 @@ pip install -r requirements.txt
 ![Log for Volitility](assets/spy_log_returns.png)
 
 ### Monte Carlo Simulation
+
 ![Monte Carlo](assets/spy_simulation.png)
