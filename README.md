@@ -1,6 +1,6 @@
 # StockForecast
 
-Monte Carlo simulation to Forecast an individual stock
+An old project from 2020 which is forcasting by running a Monte Carlo simulation
 
 ## Environment
 
