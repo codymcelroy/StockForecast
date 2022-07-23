@@ -6,8 +6,6 @@ from tkinter.ttk import Label
 import numpy as np  
 import pandas as pd  
 from pandas_datareader import data as wb 
-import seaborn as sns
-from matplotlib import image as mpimg
 import matplotlib.pyplot as plt 
 from scipy.stats import norm
 

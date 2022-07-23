@@ -1,10 +1,10 @@
 # StockForecast
 
-An old project from 2020 which is forecasting by running a Monte Carlo simulation
+A project from 2020. Forecasting a stock price by running a Monte Carlo simulation
 
 ## Files
 
-- stockForecast.ipynb = interactive work book
+- stockForecast.ipynb = interactive workbook
 - stock_forecast.py = Todo: Tkinker GUI
 
 ## Environment
