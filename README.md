@@ -2,7 +2,9 @@
 
 A project from 2020. Forecasting a stock price by running a Monte Carlo simulation
 
+## Available Functions
 
+### Adjusted Closed
 
 ![Adjusted Close Chart](assets/spy_adj_close.png)
 
@@ -29,6 +31,4 @@ env\Scripts\activate.bat
 
 pip install -r requirements.txt
 
-## Available Functions
 
-### Adjusted Closed
