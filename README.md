@@ -2,10 +2,7 @@
 
 A project from 2020. Forecasting a stock price by running a Monte Carlo simulation
 
-## Files
 
-- stockForecast.ipynb = interactive workbook
-- stock_forecast.py = Todo: Tkinker GUI
 
 ![Adjusted Close Chart](assets/spy_adj_close.png)
 
@@ -17,6 +14,10 @@ A project from 2020. Forecasting a stock price by running a Monte Carlo simulati
 
 ![Monte Carlo](assets/spy_simulation.png)
 
+## Files
+
+- stockForecast.ipynb = interactive workbook
+- stock_forecast.py = Todo: Tkinker GUI
 
 ## Environment
 
